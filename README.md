@@ -1,2 +1,2 @@
 # FacadeDesignPattern
-This contains an example of Facade Design Pattern in Java
+This contains examples of Design Pattern in Java
